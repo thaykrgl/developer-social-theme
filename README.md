@@ -99,7 +99,7 @@
 
 ### Links
 
-- Live Site URL: [Github Pages](https://thaykrgl.github.io/ping-coming-soon-page/index.html)
+- Live Site URL: [Github Pages](https://thaykrgl.github.io/developer-social-theme/dist/index.html)
 
 ### Built with
 
