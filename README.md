@@ -2,12 +2,12 @@
 
 ## Table of contents
 
-- [Screenshot](#screenshot)
+- [Screenshots](#screenshots)
 - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
 
-### Screenshot
+### Screenshots
 
 #### HomePage Desktop View
 
